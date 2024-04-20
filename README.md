@@ -1,3 +1,3 @@
 # Unity_2d_DragonsGame
 Unity ile 2d Oyun Gelistirme
-Fare sağ tuşu ile oyun başlar.
+Fare sol tuşu ile oyun başlar.
